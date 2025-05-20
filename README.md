@@ -18,4 +18,5 @@ I'm Abdulrehman Iqbal, a full stack developer passionate about building clean, e
 - **Tools & Platforms:** Git, GitHub, REST APIs, Firebase, Vercel
 - **Currently Exploring:** Machine Learning, AI, Data Engineering
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdulrehmaniqbal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Abdulrehman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulrehman-iq&show_icons=true&theme=radical)
+
