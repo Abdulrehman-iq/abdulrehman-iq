@@ -20,4 +20,7 @@ I'm Abdulrehman Iqbal, a full stack developer passionate about building clean, e
 - **Currently Exploring:** Machine Learning, AI, Data Engineering
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdulrehman-iq&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman-iq&theme=radical)
+![Abdulrehman's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulrehman-iq&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman-iq&layout=compact&theme=radical)
 
